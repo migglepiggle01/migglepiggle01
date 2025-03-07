@@ -1,10 +1,9 @@
-- 👋 Hello, I’m @migglepiggle01 (Lord of the peasants and/or Optimus Prime).
-- 👀 I’m not interested in: (Everything is boring).
-- 🌱 I’m currently not learning: (I have learnt everything the universe has to offer).
-- 💞️ I’m looking to collaborate on: You donating me money.
-- 📫 How to reach me: You can't reach me, I'm too fast
-- 😄 Pronouns: Optimus Prime / Lord of the peasants
-- ⚡ Fun fact: You should give me money
+- 👋 Hello, I’m @migglepiggle01 (Miguel).
+- 👀 I’m interested in: You
+- 🌱 I’m currently learning
+- 💞️ I’m looking not looking to collaborate right now. Sorry
+- 📫 Reach me if you going to give me something good
+- ⚡ Fun fact: I forgot
 
 <!---
 migglepiggle01/migglepiggle01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
